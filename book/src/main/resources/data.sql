@@ -1,0 +1,3 @@
+INSERT INTO Book (title, author, description, price) VALUES ('Harry Potter', 'J. K. Rowling', 'Tout le monde connait ce livre', 6.80);
+INSERT INTO Book (title, author, description, price) VALUES ('Vague de chaleur', 'Richard Castle', 'Un livre policier plein de suspens mais également de romance', 8.20);
+INSERT INTO Book (title, author, description, price) VALUES ('Le petit prince', 'Antoine de Saint Exupery', 'Une histoire racontant les incroyables aventures du petit prince.', 6.00);
