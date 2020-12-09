@@ -22,6 +22,7 @@ public class BookController {
 
     @GetMapping(value="/Books")
     public Iterable<Book> getBooks() {
+        System.out.println("hello");
         return dao.findAll();
     }
 
